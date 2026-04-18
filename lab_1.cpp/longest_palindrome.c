@@ -1,3 +1,4 @@
+// to find the largest palindrome in the string array.
 #include <stdio.h>
 
 // function to check palindrome

@@ -4,4 +4,4 @@
 // and if you want to rint the strict lower triangular matrix then condition is i>j
 // and if you want to print the non diagonal elements then condition is i!=j
 // and if you want to print the main diagonal elements then condition is i=j
-// and if you want to print the secondary diargonal elemetns then condition is i+j = n-1 (here n is the number of rows)
+// and if you want to print the secondary diargonal elemetns then condition is i+j = n-1 (here n is the number of rows).........
